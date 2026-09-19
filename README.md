@@ -1,0 +1,2 @@
+モンテカルロ法により円周率の近似値を求めるプログラム。  
+[https://gist.github.com/erga0131/b41a4cbb2d94a9d734d13a2afdf18aaf/cbadf454b4f65b68cd56331a24f2dd5296a263ff](https://gist.github.com/erga0131/b41a4cbb2d94a9d734d13a2afdf18aaf/cbadf454b4f65b68cd56331a24f2dd5296a263ff)をベースにGemini 3.6 FlashでColab向けに最適化したもの
